@@ -1,8 +1,8 @@
 # Mario-game project
-steps
+steps to do
 git clone
 git init
-cd
+cd file name / cd
 git remote add origin <url link>
 git remote -v
 git status
