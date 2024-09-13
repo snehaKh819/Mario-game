@@ -3,7 +3,7 @@ steps to do
 git clone
 git init
 cd file name / cd
-git remote add origin <url link>
+git remote add origin <url link> (every time you open the file for changes)
 git remote -v
 git status
 git add .
